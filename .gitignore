@@ -148,6 +148,7 @@ activemq-data/
 *.sage.py
 
 # Environments
+multiagent
 .env
 .envrc
 .venv
